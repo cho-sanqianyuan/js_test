@@ -3,9 +3,6 @@
 <head>
     <meta charset="utf-8">
     <title>测试</title>
-    <link rel="stylesheet" href="../css/weui.min.css" type="text/css" />
-    <link href="../css/main.css" rel="stylesheet" type="text/css">
-    <link href="../images/favicon.ico" rel="icon" type="image/x-icon" />
 </head>
 
 <body>
